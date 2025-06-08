@@ -1,7 +1,7 @@
 # ML-image-classification
 This project uses a custom-trained YOLOv8 model to detect Indian cricket players, specifically Virat Kohli and Rohit Sharma, in real-world images. Built on Google Colab using the Ultralytics YOLO library, the goal was to explore image classification techniques by working with images of favorite cricketers.
 
-<h2>📂 Files Included</h2> <ul> <li><b>ml_virat_rohit.ipynb</b> – Main notebook used in Google Colab</li> <li><b>best.pt</b> – Trained YOLOv8 weights for player detection</li> <li><b>Training Dataset</b> – Images used to train the model </li> </ul><br> <h2> Annotations and Dataset Preparation</h2>
+<h2> Annotations and Dataset Preparation</h2>
 Images were annotated using <a href="https://roboflow.com/" target="_blank">Roboflow</a>, a web-based annotation tool.
 
 Then the dataset was exported in the YOLO format, which includes:
