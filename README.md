@@ -18,4 +18,4 @@ Install using:<br>
 <code>pip install ultralytics</code><br><br>
 
 <h2>🚀 Running the Model</h2>
-Load the model and run prediction on an image:<br>
+Load the model and run prediction on an image<br>
